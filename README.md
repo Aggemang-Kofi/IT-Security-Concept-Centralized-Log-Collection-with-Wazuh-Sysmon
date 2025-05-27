@@ -1,0 +1,1 @@
+# IT-Security-Concept-Centralized-Log-Collection-with-Wazuh-Sysmon
